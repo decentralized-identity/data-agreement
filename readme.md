@@ -43,7 +43,7 @@ Hyperledger Aries, Kantara, ISO, W3C Data Privacy Vocabulary, MyData, Govstack
 - **Meetings**
 
 Are there regular meetings? If so, when?
-Weekly Thursday 14:00 -15:00 CET
+Bi-Weekly Thursday 14:00 -15:00 CET
 
 - **What are the goals of the meeting?**
 
